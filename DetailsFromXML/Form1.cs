@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -30,7 +31,7 @@ namespace DetailsFromXML
 
         public void LoadTable(bool withFilter)
         {
-            using (XmlReader reader = XmlReader.Create(@"C:\Users\אביב\source\repos\DetailsFromXML\DetailsFromXML\xml_ex.xml"))
+            using (XmlReader reader = XmlReader.Create(Directory.GetCurrentDirectory() + @"\xml_ex.xml"))
             {
                 if (!withFilter)
                 {
