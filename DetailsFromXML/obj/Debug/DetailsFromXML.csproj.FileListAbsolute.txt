@@ -1,0 +1,10 @@
+C:\Users\אביב\source\repos\DetailsFromXML\DetailsFromXML\bin\Debug\DetailsFromXML.exe.config
+C:\Users\אביב\source\repos\DetailsFromXML\DetailsFromXML\bin\Debug\DetailsFromXML.exe
+C:\Users\אביב\source\repos\DetailsFromXML\DetailsFromXML\bin\Debug\DetailsFromXML.pdb
+C:\Users\אביב\source\repos\DetailsFromXML\DetailsFromXML\obj\Debug\DetailsFromXML.csprojAssemblyReference.cache
+C:\Users\אביב\source\repos\DetailsFromXML\DetailsFromXML\obj\Debug\DetailsFromXML.Form1.resources
+C:\Users\אביב\source\repos\DetailsFromXML\DetailsFromXML\obj\Debug\DetailsFromXML.Properties.Resources.resources
+C:\Users\אביב\source\repos\DetailsFromXML\DetailsFromXML\obj\Debug\DetailsFromXML.csproj.GenerateResource.cache
+C:\Users\אביב\source\repos\DetailsFromXML\DetailsFromXML\obj\Debug\DetailsFromXML.csproj.CoreCompileInputs.cache
+C:\Users\אביב\source\repos\DetailsFromXML\DetailsFromXML\obj\Debug\DetailsFromXML.exe
+C:\Users\אביב\source\repos\DetailsFromXML\DetailsFromXML\obj\Debug\DetailsFromXML.pdb
